@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+screen.png
+*.wav
+node_modules/

@@ -1,0 +1,12 @@
+{
+  "name": "mr-ayo",
+  "version": "0.1.0",
+  "private": true,
+  "main": "desktop/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^37.2.6"
+  }
+}
