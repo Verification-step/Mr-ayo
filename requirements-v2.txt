@@ -1,0 +1,7 @@
+requests>=2.32.0
+python-dotenv>=1.0.1
+sounddevice>=0.5.0
+numpy>=2.0.0
+psutil>=6.0.0
+# Optional local wake-word package; the default v2 runtime uses the wake phrase via STT.
+openwakeword>=0.6.0
